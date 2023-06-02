@@ -12,5 +12,14 @@
 [地鼠文档-go导航](https://www.topgoer.cn/)
 
 
+## 工具
+* GoLand: 界面-> 全部功能
+
+* VSCode: 界面-> 全部功能
+
+* Git: 全面操作
+
+* 设计模式
+
 ## 参考
 [学习路线](https://zhuanlan.zhihu.com/p/466057142)
