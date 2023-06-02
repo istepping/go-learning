@@ -5,3 +5,8 @@
 GoLand
 VSCode
 Git
+
+界面: 功能栏OK, 菜单栏
+Git: 
+Python教程
+[]
