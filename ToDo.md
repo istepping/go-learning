@@ -8,5 +8,5 @@ Git
 
 界面: 功能栏OK, 菜单栏
 Git: 
-Python教程
-[]
+Python教程, 业务后端项目
+Kitex, 
