@@ -52,4 +52,4 @@ git remote  查看远程仓库地址
 git remote rm origin 删除仓库地址
 git remote add origin ssh://git@aaaaaaaa:10022/ddddd.git 添加关联新的远程仓库
 更改仓库方案2
-git remote set-url origin ssh://git@aaaaaaaa:10022/ddddd.git 设置远程仓库地址
+git remote set-url origin ssh://git@aaaaaaaa:10022/ddddd.git 设置远程仓库地址b
